@@ -3,7 +3,7 @@ A ternary operator takes three operands:
 1 - a condition followed by a question mark (?), 2- then an expression to execute if the condition is truthy followed by a colon (:), 
 3- and finally the expression to execute if the condition is falsy. This operator is frequently used as an alternative to an if...else statement.
 
-
+TERNARY SKELETON
 condition (no if) ? truthy : falsy
 */
 
